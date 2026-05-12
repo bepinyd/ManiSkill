@@ -269,33 +269,8 @@ The node publishes desired joint targets to:
 
 ---
 
-# 📈 Training Outputs
 
-Training logs and checkpoints are stored in:
 
-```bash
-runs/
-```
-
-These can be visualized using TensorBoard.
-
----
-
-# 📊 TensorBoard
-
-Launch TensorBoard:
-
-```bash
-tensorboard --logdir runs
-```
-
-Open in browser:
-
-```text
-http://localhost:6006
-```
-
----
 
 # 🧩 Features
 
