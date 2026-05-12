@@ -1,0 +1,9 @@
+ros2_mani/build
+ros2_mani/install
+ros2_mani/log
+ppo
+leap_hand_pick.py
+my_leap_hand.py
+run_pick_cube.py
+test.py
+runs
